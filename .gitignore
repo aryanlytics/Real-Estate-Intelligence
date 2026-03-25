@@ -13,6 +13,8 @@ dist/
 build/
 *.egg
 *.egg-info/
-.env/
-venv/
-env/
+.env
+venv
+env
+gcp-key.json
+__pycache__
